@@ -36,4 +36,4 @@ function orderHamburger() {
   order += patty && patties ? `${patties} extra pattie` : "";
   alert(order);
 }
-console.log();
+
